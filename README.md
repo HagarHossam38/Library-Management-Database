@@ -1,2 +1,2 @@
 # Library-Management-Database
-This repository houses the database schema and entity-relationship diagram (ERD) for a comprehensive Library Management System. Designed to efficiently organize information within a library, it covers employees, users, books, authors, publishers, categories, floors, and shelves.
+Welcome to the Library Management Database repository! Here, you'll find the schema and entity-relationship diagram (ERD) for a robust Library Management System. This system, built using SQL Server, is crafted to effectively organize and manage various aspects of library operations, including employees, users, books, authors, publishers, categories, floors, and shelves.
